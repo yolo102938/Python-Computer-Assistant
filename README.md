@@ -38,6 +38,8 @@ python main.py
 
 The Python Computer Assistant currently supports the following voice commands:
 
+- **FreeStyle:** Without a special command, the assistant will use the g4f API to try and execute your request. If the request is not meant to be a CMD command, the assistant will figure it out and make a google search of the query.
+
 - **Take a Screenshot:** Capture a screenshot of the current screen.
 
 - **Live Write a Code:** Interactively write code based on your voice input. The code will be typed in real-time.
