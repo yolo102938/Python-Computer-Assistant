@@ -72,18 +72,14 @@ The Python Computer Assistant currently supports the following voice commands:
 
 Feel free to modify the assistant to suit your needs. You can extend its capabilities by adding new voice commands or integrating with other APIs.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 
-- The project uses the g4f library for ChatGPT API integration.
+- The project uses the g4f library for ChatGPT API integration. (https://github.com/xtekky/gpt4free)
 - The `pyttsx3` library is used for text-to-speech functionality.
 
 ## Support
 
-If you encounter any issues or have questions, please create an issue in the repository or contact the project maintainer at `your.email@example.com`.
+If you encounter any issues or have questions, please create an issue in the repository and I will be happy to help.
 
 ---
 
