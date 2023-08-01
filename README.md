@@ -1,4 +1,4 @@
-# Python Computer Assistant
+# Python Computer Assistant 💻
 
 Welcome to the Python Computer Assistant project! This project is a voice-controlled computer assistant built using Python. The assistant allows you to execute various commands using voice input and interact with your computer in a fun and convenient way.
 
